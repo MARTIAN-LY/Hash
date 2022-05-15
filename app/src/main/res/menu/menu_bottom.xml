@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/bottom_home"
+        android:title="首页" />
+    <item
+        android:id="@+id/educationFragment"
+        android:icon="@drawable/bottom_school"
+        android:title="教务" />
+    <item
+        android:id="@+id/messageFragment"
+        android:icon="@drawable/bottom_message"
+        android:title="消息" />
+    <item
+        android:id="@+id/myselfFragment"
+        android:icon="@drawable/bottom_myself"
+        android:title="我的" />
+</menu>
